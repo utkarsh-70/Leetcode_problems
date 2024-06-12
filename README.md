@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
@@ -13,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1217-relative-sort-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0075-sort-colors) |
