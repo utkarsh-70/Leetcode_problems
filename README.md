@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
@@ -24,3 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0075-sort-colors) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
