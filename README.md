@@ -44,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Array
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
 <!---LeetCode Topics End-->
