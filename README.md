@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 <!---LeetCode Topics End-->
