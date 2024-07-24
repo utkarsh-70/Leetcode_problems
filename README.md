@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0735-asteroid-collision](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0735-asteroid-collision) |
+| [1333-sort-the-jumbled-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
@@ -109,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
