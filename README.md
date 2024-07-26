@@ -138,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
