@@ -7,19 +7,19 @@
 class Solution:
     def __init__(self):
         self.fl=False
-    def solve(self,root,targetSum,temp):
+    def solve(self,root,targetSum):
         if root==None:
             return
-
-        temp+=root.val
-        if  root.left is None and root.right is None and temp==targetSum:
+        targetSum-=root.val
+        if  root.left is None and root.right is None and targetSum==0:
             self.fl=True
-        self.solve(root.left,targetSum,temp)
-        self.solve(root.right,targetSum,temp)
-        temp-=root.val
+        self.solve(root.left,targetSum)
+        self.solve(root.right,targetSum)
+
+
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
         if not root:
             return False
-        temp=0
-        self.solve(root,targetSum,temp)
+
+        self.solve(root,targetSum)
         return self.fl
