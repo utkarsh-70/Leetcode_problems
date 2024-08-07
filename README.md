@@ -151,14 +151,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
 ## Brainteaser
 |  |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
