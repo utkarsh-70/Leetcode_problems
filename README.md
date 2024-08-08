@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Array
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 ## Breadth-First Search
 |  |
