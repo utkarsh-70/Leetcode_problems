@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [1086-divisor-game](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1086-divisor-game) |
+| [1511-count-number-of-teams](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [1761-count-sorted-vowel-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Greedy
 |  |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0206-reverse-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
