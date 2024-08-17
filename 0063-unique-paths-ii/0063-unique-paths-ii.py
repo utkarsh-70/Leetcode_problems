@@ -4,20 +4,23 @@ class Solution:
             return 0
         
         n, m = len(obstacleGrid), len(obstacleGrid[0])
-        tbl = [[0] * m for _ in range(n)]
-        tbl[n-1][m-1] = 1
+        for i in range(n):
+            for j in range(m):
+                if obstacleGrid[i][j] == 1:
+                    obstacleGrid[i][j] = -1
+        obstacleGrid[n-1][m-1] = 1
 
         for i in range(n - 1, -1, -1):
             for j in range(m - 1, -1 , -1):
-                if obstacleGrid[i][j] == 1:
-                    tbl[i][j] = 0
+                if obstacleGrid[i][j] == -1:
+                    obstacleGrid[i][j] = 0
                     continue
                 if i != n - 1:
-                    tbl[i][j] += tbl[i + 1][j]
+                    obstacleGrid[i][j] += obstacleGrid[i + 1][j]
                 if j != m - 1:
-                    tbl[i][j] += tbl[i][j + 1]
+                    obstacleGrid[i][j] += obstacleGrid[i][j + 1]
         
-        return tbl[0][0]
+        return obstacleGrid[0][0]
 
 
 class Solution1:
