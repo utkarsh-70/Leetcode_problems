@@ -1,7 +1,9 @@
 class Solution:
     def minSteps(self, n: int) -> int:
-        @cache
+        di={}
         def solve(ac, prev):
+            if (ac,prev) in di:
+                return di[(ac,prev)]
             if ac==n:
                 return 0
             if ac>n:
@@ -10,5 +12,6 @@ class Solution:
                 return 2 + solve(ac + ac, ac)
             x=1+solve(ac+prev,prev)
             y=2+solve(ac+ac,ac)
-            return min(x,y)
+            di[(ac,prev)]=min(x,y)
+            return di[(ac,prev)]
         return solve(1, 0)
