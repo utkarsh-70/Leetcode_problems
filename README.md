@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1511-count-number-of-teams](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
