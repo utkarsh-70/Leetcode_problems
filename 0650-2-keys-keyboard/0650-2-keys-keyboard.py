@@ -1,5 +1,6 @@
 class Solution:
     def minSteps(self, n: int) -> int:
+        @cache
         def solve(ac, prev):
             if ac==n:
                 return 0
