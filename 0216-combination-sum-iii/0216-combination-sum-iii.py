@@ -1,5 +1,6 @@
 class Solution:
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
+        @cache
         def comb(i, k, n):
             if k == 0 and n == 0:
                 return [[]]
