@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 ## Breadth-First Search
