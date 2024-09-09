@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0216-combination-sum-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
 |  |
