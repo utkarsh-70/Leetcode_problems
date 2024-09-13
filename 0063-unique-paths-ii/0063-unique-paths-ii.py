@@ -1,24 +1,22 @@
 class Solution:
-    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
-        if obstacleGrid[-1][-1] == 1 or obstacleGrid[0][0] == 1:
-            return 0
-        
-        n, m = len(obstacleGrid), len(obstacleGrid[0])
-        for i in range(n):
-            for j in range(m):
-                if obstacleGrid[i][j] == 1:
-                    obstacleGrid[i][j] = -1
-        obstacleGrid[n-1][m-1] = 1
-
-        for i in range(n - 1, -1, -1):
-            for j in range(m - 1, -1 , -1):
-                if obstacleGrid[i][j] == -1:
-                    obstacleGrid[i][j] = 0
-                    continue
-                if i != n - 1:
-                    obstacleGrid[i][j] += obstacleGrid[i + 1][j]
-                if j != m - 1:
-                    obstacleGrid[i][j] += obstacleGrid[i][j + 1]
-        
-        return obstacleGrid[0][0]
+    def uniquePathsWithObstacles(self, ob: List[List[int]]) -> int:
+        m=len(ob)
+        n=len(ob[0])
+        di={}
+        def topd(i,j):
+            if (i,j) in di:
+                return di[(i,j)]
+            if i==m-1 and j==n-1:
+                if not ob[i][j]:
+                    return 1
+                return 0
+            if i>=m or j>=n:
+                return 0
+            if ob[i][j]==1:
+                return 0
+            right=topd(i,j+1)
+            bott=topd(i+1,j)
+            di[(i,j)]=right+bott
+            return di[(i,j)]
+        return topd(0,0)
 
