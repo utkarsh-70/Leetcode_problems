@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2727-number-of-senior-citizens](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1761-count-sorted-vowel-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Greedy
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Math
 |  |
 | ------- |
