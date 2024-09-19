@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0740-delete-and-earn](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0740-delete-and-earn) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Backtracking
