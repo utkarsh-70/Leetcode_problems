@@ -13,7 +13,7 @@ class Solution:
                     return 1
                 else:
                     return 0
-            print(sum1) 
+            # print(sum1) 
             currsum = (sum1 + grid[i][j]) % k
             di[(i,j,sum1)] = ((bt(i+1,j,currsum)%mod)+(bt(i,j+1,currsum)%mod))%mod
             return di[(i,j,sum1)]
