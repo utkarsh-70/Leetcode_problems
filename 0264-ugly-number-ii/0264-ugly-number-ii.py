@@ -29,21 +29,21 @@ class Solution2:
         print(out)
         return 0
         
+
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
-        out = [1]  
-        temp = [2, 3, 5]  
-        idx = 0
-        x = 1  
-    
-        while x<n: 
-            val = out[idx]
+        out=[1]
+        temp=[2,3,5]
+        x=1
+        idx=0
+        while x<n:
             for i in range(3):
-                new_val = val * temp[i]
-                if new_val not in out: 
-                    out.append(new_val)
-            out.sort()  
-            idx += 1
-            x += 1
-        
-        return out[n-1] 
+                val=out[idx]*temp[i]
+                if val not in out:
+                    out.append(val)
+                    
+            idx=idx+1
+            x+=1
+            out.sort()
+
+        return out[n-1]
