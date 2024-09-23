@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0740-delete-and-earn](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0740-delete-and-earn) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Merge Sort
