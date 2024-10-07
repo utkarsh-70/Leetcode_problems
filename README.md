@@ -97,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
