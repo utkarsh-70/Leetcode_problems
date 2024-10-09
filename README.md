@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0063-unique-paths-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
