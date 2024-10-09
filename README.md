@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
