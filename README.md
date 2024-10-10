@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0735-asteroid-collision) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0264-ugly-number-ii) |
+| [0496-next-greater-element-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0740-delete-and-earn) |
 | [1256-rank-transform-of-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
