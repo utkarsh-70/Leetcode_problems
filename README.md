@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1256-rank-transform-of-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1511-count-number-of-teams](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1511-count-number-of-teams) |
