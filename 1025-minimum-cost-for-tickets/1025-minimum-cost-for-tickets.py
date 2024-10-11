@@ -1,6 +1,5 @@
 class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:
-        days.sort()
         @cache
         def topd(i,prev):
             if i==len(days):
