@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Merge Sort
 |  |
