@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0264-ugly-number-ii) |
+| [0633-sum-of-square-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0567-permutation-in-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Breadth-First Search
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
 |  |
