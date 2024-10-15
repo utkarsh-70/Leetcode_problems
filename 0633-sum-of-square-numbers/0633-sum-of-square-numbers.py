@@ -1,16 +1,11 @@
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
-        temp=[]
-        i=0
-        while i*i<=c:    
-            temp.append(i*i)
-            i+=1
-        n=i-1
-        i,j=0,n
+        i,j=0,int(c**0.5)
         while i<=j:
-            if temp[i]+temp[j]==c:
+            temp=i*i+j*j
+            if temp==c:
                 return True
-            elif temp[i]+temp[j]<c:
+            elif temp<c:
                 i+=1
             else:
                 j-=1
