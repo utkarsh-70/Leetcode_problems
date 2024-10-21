@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Dynamic Programming
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
