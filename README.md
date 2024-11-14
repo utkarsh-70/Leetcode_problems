@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1511-count-number-of-teams) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Breadth-First Search
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
 |  |
 | ------- |
