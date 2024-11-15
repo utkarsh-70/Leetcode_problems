@@ -7,7 +7,8 @@ class Solution:
         def solve(i):
             if i==n//2:
                 return 
-            s[i],s[n-i-1]=s[n-i-1],s[i]
+
             solve(i+1)
+            s[i],s[n-i-1]=s[n-i-1],s[i]
         solve(0)
             
