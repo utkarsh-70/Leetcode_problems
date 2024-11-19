@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1238-alphabet-board-path](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1238-alphabet-board-path) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0740-delete-and-earn) |
+| [1238-alphabet-board-path](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1238-alphabet-board-path) |
 | [1256-rank-transform-of-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
