@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1086-divisor-game) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1511-count-number-of-teams](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Math
