@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
 |  |
 | ------- |
