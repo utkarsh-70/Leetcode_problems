@@ -449,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
