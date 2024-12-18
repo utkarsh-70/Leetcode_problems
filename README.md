@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1803-average-waiting-time) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [1917-maximum-average-pass-ratio](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1917-maximum-average-pass-ratio](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0948-sort-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
