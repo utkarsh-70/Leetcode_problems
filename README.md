@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2502-sort-the-people](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
