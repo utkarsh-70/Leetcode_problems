@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Rolling Hash
 |  |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
