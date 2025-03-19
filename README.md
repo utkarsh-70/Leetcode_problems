@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/utkarsh-70/Leetcode_problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/utkarsh-70/Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/utkarsh-70/Leetcode_problems/tree/master/2665-minimum-time-to-repair-cars) |
 ## Sliding Window
 |  |
 | ------- |
