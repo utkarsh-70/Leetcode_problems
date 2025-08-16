@@ -64,6 +64,7 @@ These are the leetcode problems which i have currently solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -384,6 +385,7 @@ These are the leetcode problems which i have currently solved.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
@@ -416,6 +418,7 @@ These are the leetcode problems which i have currently solved.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/utkarsh-70/Leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
